@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "736663fe6f9e03fcb39ace9020c42b4c---cone-estacion--rio-de-calculadora-by-vexels.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
